@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'ios7-icon';
+  src:
+    url('fonts/ios7-icon.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon {
+  display: inline-block;
+  font-size: 32px;
+  font-family: 'ios7-icon';
+  margin-right: 20px;
+  -webkit-text-rendering: geometricPrecision;
+  -moz-text-rendering: geometricPrecision;
+  -ms-text-rendering: geometricPrecision;
+  -o-text-rendering: geometricPrecision;
+  text-rendering: geometricPrecision;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -ms-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.text {
+  font-size: 24px;
+  line-height: 32px;
+}
