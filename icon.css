@@ -7,10 +7,18 @@
 
 @font-face {
   font-family: 'ios7-icon';
-  src:
-    url('fonts/ios7-icon.woff') format('woff');
+  src: url('fonts/ios7-icon.woff') format('woff');
   font-weight: normal;
   font-style: normal;
+}
+
+h2  {
+  clear: both;
+  margin-top: 1em;
+}
+.item {
+  width: 280px;
+  float: left;
 }
 
 .icon {
@@ -30,7 +38,16 @@
   font-smoothing: antialiased;
 }
 
+
 .text {
+  font-size: 18px;
+  line-height: 32px;
+  margin-right: 20px;
+}
+
+.name {
   font-size: 24px;
   line-height: 32px;
 }
+
+
