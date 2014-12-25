@@ -7,6 +7,7 @@ A webfont of iOS 7 icons, based on Free iOS 7 icons in vector. Original Github P
 
 Forked to add keywords for easier searching, and roughly sorted by category.
 
+[Demo](http://akira-miyake.github.io/iOS7-icon-font/)
 
 ----------
 Original copyright &copy; 2014 AKIRA-MIYAKE
