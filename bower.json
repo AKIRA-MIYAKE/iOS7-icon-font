@@ -1,0 +1,22 @@
+{
+  "name": "iOS7-icon-font",
+  "homepage": "https://github.com/AKIRA-MIYAKE/iOS7-icon-font",
+  "authors": [
+    "AKIRA-MIYAKE"
+  ],
+  "description": "A webfont of iOS 7 icons, based on Free iOS 7 icons in vector. Original Github Project by AKIRA-MIYAKE.",
+  "main": "icon.css",
+  "keywords": [
+    "iOS",
+    "icon",
+    "font"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
